@@ -3,13 +3,13 @@
 /*
 Name: Brisa Carter
 Assignment: Week 5 - Fun To do List
-Description: Creates a fun list of things to doexxtending Debasis To Do list
+Description: Creates a list of fun things to do extending Debasis To Do list
 Date: 02/13/25
 */
 
 
-/* for this activity I used AI to add jest test suits and verify if server is running
-run app using  node.index
+/* for this activity I used AI to add jest test suites and verify if server is running
+run app using  node index
 - test using npm test 
 
 What I did:
